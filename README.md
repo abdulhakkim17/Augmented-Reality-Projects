@@ -12,7 +12,7 @@ Technology Stack:
   Platform: Android,
 
 2--> I've also developed another AR app
-  AR Environmental Book App, which is a Marker based AR. Please look into the demo Video of it: 
+  AR Environmental Book App, which is a Marker based AR. Please look into the demo Video of it: https://drive.google.com/file/d/1mZYnMO0aBB-zEDIX22BYF4TdSB7bBQbC/view?usp=drivesdk
 
 Technology Stack:
   Engine: Unity 3D,
