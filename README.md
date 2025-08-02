@@ -7,7 +7,7 @@ Demo Video of Bey Blade AR Game APP (https://drive.google.com/file/d/1_q5m8hJ_C0
 Technology Stack:
   Game Engine: Unity 3D,
   Programming Language: C#,
-  Multiplayer and Networking: Phton Unity Networkin(PUN),
+  Multiplayer and Networking: Photon Unity Networkin(PUN),
   AR Integration: AR Foundation,
   Platform: Android,
 
